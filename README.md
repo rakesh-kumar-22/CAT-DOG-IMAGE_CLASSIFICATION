@@ -1,4 +1,4 @@
-]# Cat vs. Dog Image Classification
+# Cat vs. Dog Image Classification
 
 This project aims to develop an image classifier to distinguish between images of cats and dogs. Using convolutional neural networks (CNNs), we train the model to recognize key features of each animal class, achieving high accuracy on the test dataset.
 
